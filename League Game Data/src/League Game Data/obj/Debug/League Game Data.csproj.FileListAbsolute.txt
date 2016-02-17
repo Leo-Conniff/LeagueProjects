@@ -1,0 +1,36 @@
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\League Game Data.exe.config
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\League Game Data.exe
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\League Game Data.pdb
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\EntityFramework.dll
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\System.Data.SQLite.dll
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\WebDriver.dll
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\WebDriver.Support.dll
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\EntityFramework.xml
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\System.Data.SQLite.xml
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\WebDriver.xml
+F:\Code Projects\League Game Data\League Game Data\bin\Debug\WebDriver.Support.xml
+F:\Code Projects\League Game Data\League Game Data\obj\Debug\League Game Data.csprojResolveAssemblyReference.cache
+F:\Code Projects\League Game Data\League Game Data\obj\Debug\League Game Data.exe
+F:\Code Projects\League Game Data\League Game Data\obj\Debug\League Game Data.pdb
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\League Game Data.exe.config
+F:\League Projects\League Game Data\src\League Game Data\obj\Debug\League Game Data.exe
+F:\League Projects\League Game Data\src\League Game Data\obj\Debug\League Game Data.pdb
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\League Game Data.exe
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\League Game Data.pdb
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\EntityFramework.dll
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\System.Data.SQLite.dll
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\System.Data.SQLite.EF6.dll
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\System.Data.SQLite.Linq.dll
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\WebDriver.dll
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\WebDriver.Support.dll
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\EntityFramework.xml
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\System.Data.SQLite.xml
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\WebDriver.xml
+F:\League Projects\League Game Data\src\League Game Data\bin\Debug\WebDriver.Support.xml
+F:\League Projects\League Game Data\src\League Game Data\obj\Debug\League Game Data.csprojResolveAssemblyReference.cache
